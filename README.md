@@ -1,5 +1,6 @@
 # Shoping-Store-Cart
-for state Management i have used redux.
+## for state Management i have used redux.
+## Deployed Link --> https://shoping-store-ayushverma-1307.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
