@@ -1,5 +1,5 @@
 # Shoping-Store-Cart
-## for state Management i have used redux.
+# For state Management i have used redux.
 ## Deployed Link --> https://shoping-store-ayushverma-1307.vercel.app/
 # Getting Started with Create React App
 
